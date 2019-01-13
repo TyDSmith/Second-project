@@ -301,6 +301,10 @@ Sidebar
     border-radius: 0 15px 15px 0;
  }
 
+ .sidebar-menu h1 h2 h3 h4 h5 h6{
+    color: whitesmoke
+ }
+
  .sidebar-menu p{
     color: whitesmoke
  }
